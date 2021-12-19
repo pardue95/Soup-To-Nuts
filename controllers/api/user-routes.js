@@ -86,18 +86,18 @@ router.post('/login', (req, res) => {
     });
 });
 
-// // LOG OUT 
-// router.post('/logout', withAuth, (req, res) => {
-//     if (req.session.loggedIn) {
-//         req.session.destroy(() => {
-//             res.status(204).end();
-//         });
-//     } else {
-//         res.status(404).end();
-//     }
-// });
+// // // LOG OUT 
+// // router.post('/logout', withAuth, (req, res) => {
+// //     if (req.session.loggedIn) {
+// //         req.session.destroy(() => {
+// //             res.status(204).end();
+// //         });
+// //     } else {
+// //         res.status(404).end();
+// //     }
+// // });
 
-// UPDATE a user 
+// // UPDATE a user 
 // router.put('/:id', withAuth, (req, res) => {
 //     User.update(req.body, {
 //         individualHooks: true,
