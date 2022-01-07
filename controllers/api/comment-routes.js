@@ -13,7 +13,9 @@ router.get('/', (req, res) => {
 });
 
 // CREATE new comments 
-router.post('/', withAuth, (req, res) => {
+router.post('/', (req, res) => {
+    console.log("===========================================")
+    console.log(req.session.user_id)
     // check session
     if (req.session) {
     Comment.create({
