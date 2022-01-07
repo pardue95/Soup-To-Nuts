@@ -9,3 +9,4 @@ router.use('/posts', postRoutes);
 router.use('/comment', commentRoutes);
 
 module.exports = router;
+//comment
