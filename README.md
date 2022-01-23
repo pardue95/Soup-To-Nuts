@@ -29,6 +29,8 @@
 * Run the app
      - `npm start` [To start the server] and navigate to <http://localhost:3001/> in your browser OR Use Insomnia Core
   ## Usage 
+  
+  YOu can view and use the deployed site here [Deployed Site]https://cwptechblog.herokuapp.com/
   ![image](https://user-images.githubusercontent.com/85760640/150697028-09e6dde9-22a7-4b1f-95f1-57b2ba3d1281.png)
   
   * Create an account and login.
