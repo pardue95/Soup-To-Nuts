@@ -29,7 +29,18 @@
 * Run the app
      - `npm start` [To start the server] and navigate to <http://localhost:3001/> in your browser OR Use Insomnia Core
   ## Usage 
-  TEST
+  ![image](https://user-images.githubusercontent.com/85760640/150697028-09e6dde9-22a7-4b1f-95f1-57b2ba3d1281.png)
+  
+  * Create an account and login.
+  ![image](https://user-images.githubusercontent.com/85760640/150697065-6240d731-a683-4e5a-8618-337cb92e2f76.png)
+  ![image](https://user-images.githubusercontent.com/85760640/150697078-e9776fe1-b24f-4b20-86fd-d96b7caaef06.png)
+  
+  * Create a new post
+  * ![image](https://user-images.githubusercontent.com/85760640/150697100-1a270cdc-5bb5-4f86-be08-278aa40b803a.png)
+
+
+
+  
   ## License
   MIT-License
 
