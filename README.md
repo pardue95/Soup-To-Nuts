@@ -37,10 +37,12 @@
   
   * Create a new post
   * ![image](https://user-images.githubusercontent.com/85760640/150697100-1a270cdc-5bb5-4f86-be08-278aa40b803a.png)
+  * ![image](https://user-images.githubusercontent.com/85760640/150697149-5898bd94-a040-4b0c-a746-3383c67a47e6.png)
 
+  * You can also Edit and delete your posts, or even add a comment to someone elses post
+![image](https://user-images.githubusercontent.com/85760640/150697168-7c128ada-d3ba-40b3-8970-5eb6251e7265.png)
+![image](https://user-images.githubusercontent.com/85760640/150697206-12bb2759-3573-4da9-8f54-55aa90f5a8f6.png)
 
-
-  
   ## License
   MIT-License
 
